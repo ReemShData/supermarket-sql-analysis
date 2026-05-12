@@ -1,0 +1,1001 @@
+Branch,Category,Payment_Type,Order_Date,Price,Profit
+Austin-Texas,Arts & Crafts,Cash,2021-08-31,13.27,1.73
+Austin-Texas,Arts & Crafts,Cash,2021-06-24,6.79,0.6
+Austin-Texas,Arts & Crafts,Cash,2021-02-24,34.99,2.06
+Austin-Texas,Arts & Crafts,ATM card,2021-01-03,16.16,1.53
+San Francisco-Carlifornia,Arts & Crafts,Cash,2021-03-01,15.18,2.15
+Houston-Texas,Arts & Crafts,ATM card,2021-05-06,6.99,0.97
+Buffalo-New York,Arts & Crafts,Cash,2021-10-08,25.99,1.66
+San Francisco-Carlifornia,Arts & Crafts,Cash,2021-12-13,7.99,0.61
+San Francisco-Carlifornia,Arts & Crafts,ATM card,2021-03-14,2.99,0.32
+San Francisco-Carlifornia,Arts & Crafts,Cash,2021-12-20,8.22,1.11
+Austin-Texas,Arts & Crafts,Cash,2021-05-21,5.95,0.53
+Houston-Texas,Arts & Crafts,ATM card,2021-02-05,10.44,1.2
+Austin-Texas,Arts & Crafts,Cash,2021-10-10,16.88,2.5
+Buffalo-New York,Arts & Crafts,Cash,2021-07-16,6.99,0.83
+Houston-Texas,Arts & Crafts,ATM card,2021-01-23,14.99,0.96
+San Francisco-Carlifornia,Arts & Crafts,Mobile payment,2021-04-15,12.49,1.4
+Austin-Texas,Arts & Crafts,Cash,2021-01-06,7.99,0.57
+Austin-Texas,Arts & Crafts,Cash,2021-07-13,14.97,0.77
+Houston-Texas,Arts & Crafts,Cash,2021-03-11,4.75,0.42
+Austin-Texas,Arts & Crafts,Cash,2021-01-27,16.1,1.38
+San Francisco-Carlifornia,Arts & Crafts,Cash,2021-11-15,10.99,1.35
+Austin-Texas,Arts & Crafts,ATM card,2021-03-07,17.59,1.54
+San Francisco-Carlifornia,Arts & Crafts,ATM card,2021-12-26,5.98,0.78
+Austin-Texas,Arts & Crafts,Cash,2021-12-26,13.99,0.7
+Buffalo-New York,Arts & Crafts,ATM card,2021-11-09,16.28,1.93
+Austin-Texas,Arts & Crafts,Cash,2021-01-25,16.47,0.97
+Austin-Texas,Arts & Crafts,ATM card,2021-05-16,9.09,0.56
+San Francisco-Carlifornia,Arts & Crafts,Cash,2021-01-16,14.8,1.51
+Austin-Texas,Arts & Crafts,ATM card,2021-03-18,19.79,1.58
+Buffalo-New York,Arts & Crafts,ATM card,2021-12-03,18.98,2.47
+Buffalo-New York,Arts & Crafts,ATM card,2021-05-13,13.69,1.2
+San Francisco-Carlifornia,Arts & Crafts,Cash,2021-09-29,7.99,0.48
+Austin-Texas,Arts & Crafts,Cash,2021-03-22,25.99,3.72
+Austin-Texas,Arts & Crafts,Cash,2021-11-25,21.99,1.58
+San Francisco-Carlifornia,Arts & Crafts,ATM card,2021-10-30,6.5,0.6
+Austin-Texas,Arts & Crafts,Cash,2021-08-22,4.99,0.25
+Buffalo-New York,Arts & Crafts,ATM card,2021-01-23,11.99,1.54
+San Francisco-Carlifornia,Arts & Crafts,ATM card,2021-10-09,9.99,0.92
+Houston-Texas,Arts & Crafts,Cash,2021-10-24,5.95,0.66
+Buffalo-New York,Arts & Crafts,ATM card,2021-03-20,8.46,0.6
+San Francisco-Carlifornia,Arts & Crafts,Cash,2021-04-03,5.97,0.7
+Austin-Texas,Arts & Crafts,Cash,2021-08-03,8.99,1.2
+Houston-Texas,Arts & Crafts,ATM card,2021-01-19,6.99,0.57
+Buffalo-New York,Arts & Crafts,ATM card,2021-10-13,9.99,0.95
+San Francisco-Carlifornia,Arts & Crafts,ATM card,2021-07-01,8.79,0.61
+Austin-Texas,Arts & Crafts,Cash,2021-02-14,17.99,2.57
+Buffalo-New York,Arts & Crafts,Cash,2021-05-12,10.95,0.59
+Austin-Texas,Arts & Crafts,Cash,2021-01-18,7.77,0.92
+San Francisco-Carlifornia,Arts & Crafts,Cash,2021-08-31,4.12,0.44
+San Francisco-Carlifornia,Arts & Crafts,Cash,2021-09-04,16.54,1.23
+San Francisco-Carlifornia,Arts & Crafts,ATM card,2021-07-28,3.48,0.41
+Austin-Texas,Arts & Crafts,Cash,2021-12-23,10.95,1.37
+Austin-Texas,Arts & Crafts,Cash,2021-06-28,18.19,2.42
+Austin-Texas,Arts & Crafts,Cash,2021-07-09,8.49,1.11
+Austin-Texas,Arts & Crafts,Cash,2021-07-24,6.48,0.52
+Austin-Texas,Arts & Crafts,Cash,2021-10-07,14.99,1.54
+Austin-Texas,Arts & Crafts,Cash,2021-05-01,14.99,2.18
+Austin-Texas,Arts & Crafts,Cash,2021-07-16,26.53,1.92
+San Francisco-Carlifornia,Arts & Crafts,Cash,2021-10-07,9.33,0.78
+San Francisco-Carlifornia,Arts & Crafts,Cash,2021-12-21,31.44,3.76
+Austin-Texas,Arts & Crafts,ATM card,2021-09-24,17.49,1.49
+San Francisco-Carlifornia,Arts & Crafts,Cash,2021-11-29,5.34,0.51
+Buffalo-New York,Arts & Crafts,ATM card,2021-04-20,8.99,1.17
+Austin-Texas,Arts & Crafts,ATM card,2021-04-02,10.97,1.62
+San Francisco-Carlifornia,Arts & Crafts,ATM card,2021-03-30,13.97,1.52
+San Francisco-Carlifornia,Arts & Crafts,Cash,2021-01-13,23.95,2.71
+Buffalo-New York,Arts & Crafts,Cash,2021-10-05,29.97,4.35
+Austin-Texas,Arts & Crafts,ATM card,2021-04-05,11.99,0.83
+San Francisco-Carlifornia,Arts & Crafts,Cash,2021-06-22,6.99,1.02
+Houston-Texas,Arts & Crafts,ATM card,2021-05-11,2.27,0.33
+Austin-Texas,Arts & Crafts,Mobile payment,2021-02-22,9.99,0.76
+Buffalo-New York,Arts & Crafts,Cash,2021-05-08,5.99,0.45
+Austin-Texas,Arts & Crafts,ATM card,2021-02-05,29.96,3.68
+Austin-Texas,Arts & Crafts,Cash,2021-12-25,12.99,1.37
+San Francisco-Carlifornia,Arts & Crafts,Cash,2021-07-23,11.99,0.65
+San Francisco-Carlifornia,Arts & Crafts,ATM card,2021-07-30,10.59,0.55
+San Francisco-Carlifornia,Arts & Crafts,Cash,2021-04-08,12.99,1.28
+Buffalo-New York,Arts & Crafts,ATM card,2021-11-24,12.19,1.07
+Austin-Texas,Arts & Crafts,ATM card,2021-08-19,14.99,2.24
+Austin-Texas,Arts & Crafts,Cash,2021-02-17,19.99,1.33
+Sparks-Nevada,Arts & Crafts,Cash,2021-06-17,54.8,5.93
+Buffalo-New York,Arts & Crafts,Cash,2021-01-10,30.99,4.14
+Buffalo-New York,Arts & Crafts,Cash,2021-06-25,12.99,0.78
+San Francisco-Carlifornia,Arts & Crafts,Cash,2021-10-01,9.99,0.7
+Austin-Texas,Arts & Crafts,Cash,2021-09-19,17.9,2.16
+Buffalo-New York,Arts & Crafts,ATM card,2021-03-01,22.49,2.96
+Austin-Texas,Arts & Crafts,Cash,2021-11-04,32.99,3.77
+Buffalo-New York,Arts & Crafts,Cash,2021-06-01,11.94,0.8
+Austin-Texas,Arts & Crafts,Cash,2021-11-06,7.99,0.73
+Sparks-Nevada,Arts & Crafts,Cash,2021-06-13,3.79,0.35
+Houston-Texas,Arts & Crafts,Cash,2021-12-14,9.95,0.78
+Buffalo-New York,Arts & Crafts,Cash,2021-04-21,25.99,3.12
+Austin-Texas,Arts & Crafts,Cash,2021-08-03,14.88,1.26
+San Francisco-Carlifornia,Arts & Crafts,Cash,2021-07-12,14.89,1.28
+San Francisco-Carlifornia,Arts & Crafts,Cash,2021-03-29,14.94,2.23
+Austin-Texas,Arts & Crafts,Cash,2021-12-22,7.27,0.89
+Houston-Texas,Arts & Crafts,ATM card,2021-06-02,2.5,0.34
+San Francisco-Carlifornia,Arts & Crafts,Cash,2021-08-23,7.99,1.14
+Houston-Texas,Arts & Crafts,Cash,2021-11-24,13.59,1.69
+San Francisco-Carlifornia,Arts & Crafts,Cash,2021-03-08,16.59,1.79
+Austin-Texas,Arts & Crafts,Cash,2021-06-20,16.45,1.59
+Austin-Texas,Arts & Crafts,Cash,2021-08-07,1.69,0.22
+San Francisco-Carlifornia,Arts & Crafts,ATM card,2021-06-06,14.99,1.74
+Austin-Texas,Arts & Crafts,Cash,2021-04-03,17.97,1.46
+Austin-Texas,Arts & Crafts,ATM card,2021-11-18,16.99,1.74
+Buffalo-New York,Arts & Crafts,Cash,2021-05-22,7.99,0.81
+Buffalo-New York,Arts & Crafts,Cash,2021-07-21,14.99,2.08
+San Francisco-Carlifornia,Arts & Crafts,Cash,2021-02-10,18.97,1.5
+Austin-Texas,Arts & Crafts,Cash,2021-11-20,20.59,2.29
+Austin-Texas,Arts & Crafts,Cash,2021-12-10,14.96,1.6
+Austin-Texas,Arts & Crafts,Cash,2021-12-02,17.79,1.97
+Austin-Texas,Arts & Crafts,ATM card,2021-07-20,14.99,2.21
+Austin-Texas,Arts & Crafts,ATM card,2021-02-02,5.59,0.77
+San Francisco-Carlifornia,Arts & Crafts,Cash,2021-07-11,18.99,1.87
+Houston-Texas,Arts & Crafts,Cash,2021-01-28,16.99,2.36
+Houston-Texas,Arts & Crafts,Cash,2021-07-30,19.99,1.48
+Austin-Texas,Arts & Crafts,Cash,2021-02-26,12.98,0.67
+Austin-Texas,Arts & Crafts,Cash,2021-02-20,15.99,1.31
+San Francisco-Carlifornia,Arts & Crafts,Cash,2021-12-31,4.99,0.58
+San Francisco-Carlifornia,Arts & Crafts,Cash,2021-05-13,12.34,1.4
+Austin-Texas,Arts & Crafts,Cash,2021-10-02,129.0,11.08
+Buffalo-New York,Arts & Crafts,Cash,2021-07-05,6.99,0.54
+Austin-Texas,Arts & Crafts,Cash,2021-06-10,29.99,2.4
+Austin-Texas,Arts & Crafts,Cash,2021-08-02,11.99,1.8
+Buffalo-New York,Arts & Crafts,Cash,2021-10-15,36.99,2.38
+San Francisco-Carlifornia,Arts & Crafts,Cash,2021-07-11,4.99,0.56
+Austin-Texas,Arts & Crafts,Cash,2021-09-10,15.76,1.31
+San Francisco-Carlifornia,Arts & Crafts,Cash,2021-07-09,4.49,0.28
+Austin-Texas,Arts & Crafts,Cash,2021-09-26,6.98,0.71
+San Francisco-Carlifornia,Arts & Crafts,Cash,2021-08-27,4.11,0.28
+Austin-Texas,Arts & Crafts,Cash,2021-12-21,7.97,0.74
+Austin-Texas,Arts & Crafts,Cash,2021-10-03,8.88,0.98
+Austin-Texas,Arts & Crafts,Cash,2021-07-02,8.97,0.8
+Austin-Texas,Arts & Crafts,Cash,2021-08-05,14.29,1.23
+Austin-Texas,Arts & Crafts,Cash,2021-06-23,3.97,0.42
+Austin-Texas,Arts & Crafts,Cash,2021-12-04,11.99,1.73
+Houston-Texas,Arts & Crafts,Cash,2021-08-19,3.79,0.54
+Buffalo-New York,Arts & Crafts,ATM card,2021-01-15,4.49,0.4
+Sparks-Nevada,Arts & Crafts,ATM card,2021-12-15,2.08,0.18
+Buffalo-New York,Arts & Crafts,ATM card,2021-09-30,5.95,0.45
+San Francisco-Carlifornia,Arts & Crafts,ATM card,2021-01-27,9.39,0.84
+San Francisco-Carlifornia,Arts & Crafts,ATM card,2021-05-05,8.99,0.83
+San Francisco-Carlifornia,Arts & Crafts,Cash,2021-05-13,18.99,2.78
+San Francisco-Carlifornia,Arts & Crafts,Cash,2021-09-09,4.64,0.49
+Austin-Texas,Arts & Crafts,Cash,2021-07-19,7.59,1.1
+Austin-Texas,Arts & Crafts,Cash,2021-08-11,4.49,0.55
+Buffalo-New York,Arts & Crafts,Cash,2021-05-08,9.95,1.04
+Austin-Texas,Arts & Crafts,ATM card,2021-07-29,24.09,1.57
+Austin-Texas,Arts & Crafts,Cash,2021-06-21,9.99,0.74
+Buffalo-New York,Arts & Crafts,Cash,2021-03-08,4.79,0.63
+Austin-Texas,Automotive,Cash,2021-12-10,24.95,3.63
+Austin-Texas,Automotive,Cash,2021-12-27,16.99,2.44
+Austin-Texas,Automotive,ATM card,2021-10-08,9.99,0.7
+Buffalo-New York,Automotive,Cash,2021-08-02,18.99,1.87
+Austin-Texas,Automotive,Cash,2021-10-19,12.95,1.51
+San Francisco-Carlifornia,Automotive,Cash,2021-01-04,14.99,1.17
+Sparks-Nevada,Automotive,Cash,2021-09-25,13.99,1.54
+Sparks-Nevada,Automotive,ATM card,2021-08-05,16.99,0.91
+Buffalo-New York,Automotive,ATM card,2021-08-05,4.98,0.67
+Austin-Texas,Automotive,Cash,2021-05-15,119.99,8.5
+San Francisco-Carlifornia,Automotive,Cash,2021-02-03,17.99,2.38
+Buffalo-New York,Automotive,Cash,2021-07-06,9.34,1.2
+Austin-Texas,Automotive,Cash,2021-02-09,15.99,2.33
+San Francisco-Carlifornia,Automotive,ATM card,2021-11-28,7.99,0.87
+Buffalo-New York,Automotive,Cash,2021-09-28,29.95,3.11
+Austin-Texas,Automotive,Cash,2021-01-06,16.99,1.47
+Austin-Texas,Automotive,ATM card,2021-02-09,16.99,1.41
+Austin-Texas,Automotive,Cash,2021-02-23,13.99,1.37
+Sparks-Nevada,Automotive,Cash,2021-04-14,12.29,1.5
+San Francisco-Carlifornia,Automotive,Cash,2021-10-02,18.0,1.28
+Austin-Texas,Automotive,ATM card,2021-08-04,7.99,0.62
+Houston-Texas,Automotive,ATM card,2021-09-02,32.88,2.24
+San Francisco-Carlifornia,Automotive,Cash,2021-08-04,8.99,0.89
+Austin-Texas,Automotive,ATM card,2021-09-20,14.99,2.18
+San Francisco-Carlifornia,Automotive,Cash,2021-02-23,13.99,1.33
+Buffalo-New York,Automotive,Cash,2021-02-04,27.9,3.96
+Austin-Texas,Automotive,Cash,2021-09-18,9.95,1.31
+San Francisco-Carlifornia,Automotive,ATM card,2021-12-22,6.99,0.4
+Austin-Texas,Automotive,ATM card,2021-12-10,11.75,0.66
+Buffalo-New York,Automotive,ATM card,2021-09-20,5.48,0.71
+San Francisco-Carlifornia,Automotive,ATM card,2021-05-05,6.99,0.49
+San Francisco-Carlifornia,Automotive,Cash,2021-08-29,6.99,0.42
+Austin-Texas,Automotive,Cash,2021-12-12,27.54,2.99
+San Francisco-Carlifornia,Automotive,ATM card,2021-03-07,22.95,2.54
+San Francisco-Carlifornia,Automotive,Cash,2021-06-22,25.99,2.05
+Austin-Texas,Automotive,Cash,2021-05-05,11.6,0.79
+Austin-Texas,Automotive,Cash,2021-11-07,23.43,1.4
+Austin-Texas,Automotive,Cash,2021-04-30,11.99,1.25
+Austin-Texas,Automotive,ATM card,2021-03-11,13.59,1.58
+Buffalo-New York,Automotive,Cash,2021-03-13,7.99,1.14
+Austin-Texas,Automotive,Cash,2021-01-22,9.99,1.19
+Buffalo-New York,Automotive,Cash,2021-01-29,24.99,3.03
+Austin-Texas,Automotive,ATM card,2021-05-24,25.99,2.31
+Sparks-Nevada,Automotive,Cash,2021-10-25,39.99,2.52
+Buffalo-New York,Automotive,Cash,2021-01-23,12.97,1.06
+San Francisco-Carlifornia,Automotive,Cash,2021-09-13,29.99,3.42
+Austin-Texas,Automotive,ATM card,2021-06-28,16.99,2.13
+Austin-Texas,Automotive,ATM card,2021-04-08,12.87,1.91
+Austin-Texas,Automotive,Cash,2021-02-09,17.99,2.33
+Austin-Texas,Automotive,Cash,2021-05-09,16.5,0.88
+Austin-Texas,Automotive,Cash,2021-06-25,45.95,3.27
+San Francisco-Carlifornia,Automotive,Cash,2021-02-21,14.86,2.1
+Austin-Texas,Automotive,Cash,2021-06-16,7.95,1.06
+Houston-Texas,Automotive,Cash,2021-01-16,12.97,1.46
+Austin-Texas,Automotive,Cash,2021-06-05,17.94,1.16
+Houston-Texas,Automotive,Cash,2021-09-19,8.99,0.53
+Austin-Texas,Automotive,Cash,2021-04-14,22.99,1.43
+Austin-Texas,Automotive,Cash,2021-07-26,16.99,1.76
+Austin-Texas,Automotive,Cash,2021-07-22,8.49,1.12
+Austin-Texas,Automotive,ATM card,2021-02-28,24.99,3.64
+Houston-Texas,Automotive,ATM card,2021-04-19,38.99,2.89
+Austin-Texas,Automotive,Cash,2021-08-20,16.88,0.89
+Houston-Texas,Automotive,Cash,2021-06-15,39.99,3.78
+Houston-Texas,Automotive,Cash,2021-11-30,69.99,5.1
+Austin-Texas,Automotive,ATM card,2021-08-31,19.99,1.85
+Buffalo-New York,Automotive,ATM card,2021-08-03,23.75,1.78
+San Francisco-Carlifornia,Automotive,Cash,2021-11-03,19.99,1.95
+San Francisco-Carlifornia,Automotive,Cash,2021-12-06,14.99,0.8
+Austin-Texas,Automotive,Cash,2021-07-27,11.95,1.0
+Austin-Texas,Automotive,Cash,2021-01-17,17.88,2.21
+Austin-Texas,Automotive,Cash,2021-02-25,39.99,2.39
+San Francisco-Carlifornia,Automotive,Cash,2021-10-07,11.99,1.64
+Austin-Texas,Automotive,Cash,2021-01-18,10.99,0.95
+Austin-Texas,Automotive,Cash,2021-07-03,16.49,1.12
+Austin-Texas,Automotive,ATM card,2021-10-04,12.98,1.41
+Sparks-Nevada,Automotive,ATM card,2021-03-17,12.49,1.24
+San Francisco-Carlifornia,Automotive,ATM card,2021-07-22,50.56,5.58
+San Francisco-Carlifornia,Automotive,Cash,2021-10-05,18.99,1.15
+San Francisco-Carlifornia,Automotive,Cash,2021-06-24,16.99,0.99
+Sparks-Nevada,Automotive,Cash,2021-02-04,22.75,2.55
+Buffalo-New York,Automotive,Cash,2021-12-08,19.99,2.16
+Austin-Texas,Automotive,Cash,2021-02-05,12.99,1.69
+Buffalo-New York,Automotive,Cash,2021-01-17,13.59,1.05
+San Francisco-Carlifornia,Automotive,Cash,2021-09-27,28.99,3.42
+Houston-Texas,Automotive,Cash,2021-02-06,14.48,1.86
+Austin-Texas,Automotive,Cash,2021-03-13,16.99,1.33
+Austin-Texas,Automotive,ATM card,2021-03-12,39.09,4.65
+Austin-Texas,Automotive,Cash,2021-08-02,6.24,0.43
+Austin-Texas,Automotive,Cash,2021-12-30,19.4,1.31
+Austin-Texas,Automotive,Cash,2021-04-14,10.56,0.9
+Austin-Texas,Automotive,Cash,2021-10-19,29.95,2.28
+Austin-Texas,Automotive,Mobile payment,2021-10-21,60.0,8.85
+Buffalo-New York,Automotive,Cash,2021-02-17,7.35,0.98
+Houston-Texas,Automotive,Cash,2021-05-23,5.67,0.36
+Houston-Texas,Automotive,Cash,2021-01-24,32.54,3.17
+Austin-Texas,Automotive,ATM card,2021-11-04,65.99,5.09
+San Francisco-Carlifornia,Automotive,Cash,2021-02-26,33.87,2.29
+Austin-Texas,Automotive,Cash,2021-02-17,99.95,14.3
+San Francisco-Carlifornia,Automotive,ATM card,2021-02-09,12.12,0.65
+Austin-Texas,Automotive,Cash,2021-08-15,13.76,1.98
+Buffalo-New York,Automotive,Cash,2021-11-18,10.96,1.44
+Austin-Texas,Automotive,Cash,2021-04-23,9.99,1.27
+San Francisco-Carlifornia,Automotive,Cash,2021-06-08,38.95,2.8
+San Francisco-Carlifornia,Automotive,Cash,2021-07-22,8.99,1.23
+Austin-Texas,Automotive,Cash,2021-11-13,16.49,1.64
+Austin-Texas,Automotive,Cash,2021-08-25,9.97,1.38
+Austin-Texas,Automotive,Cash,2021-09-24,9.97,1.15
+San Francisco-Carlifornia,Automotive,Cash,2021-12-09,14.99,2.22
+Austin-Texas,Automotive,Cash,2021-02-20,19.03,1.26
+Austin-Texas,Automotive,Cash,2021-01-31,13.99,1.42
+Austin-Texas,Automotive,ATM card,2021-06-18,8.91,0.46
+Austin-Texas,Automotive,Cash,2021-01-18,5.97,0.87
+Sparks-Nevada,Automotive,Cash,2021-09-26,9.99,1.21
+Austin-Texas,Automotive,Cash,2021-01-25,3.88,0.44
+San Francisco-Carlifornia,Automotive,Cash,2021-01-21,8.82,1.01
+Austin-Texas,Automotive,Cash,2021-05-20,18.27,1.64
+Austin-Texas,Automotive,Cash,2021-02-02,45.13,4.31
+Austin-Texas,Automotive,Cash,2021-09-09,37.34,2.22
+San Francisco-Carlifornia,Automotive,Cash,2021-01-21,29.99,3.44
+San Francisco-Carlifornia,Automotive,Cash,2021-08-11,29.95,2.42
+Austin-Texas,Automotive,Cash,2021-10-29,10.93,0.7
+Austin-Texas,Automotive,ATM card,2021-05-06,27.84,3.46
+San Francisco-Carlifornia,Automotive,Cash,2021-09-13,25.98,2.45
+Houston-Texas,Automotive,ATM card,2021-09-17,16.69,2.0
+Austin-Texas,Automotive,Cash,2021-06-13,27.45,3.28
+Austin-Texas,Automotive,ATM card,2021-07-26,18.94,1.51
+San Francisco-Carlifornia,Automotive,Mobile payment,2021-05-06,12.07,1.42
+Buffalo-New York,Automotive,ATM card,2021-04-29,49.99,3.02
+San Francisco-Carlifornia,Automotive,ATM card,2021-06-20,14.09,0.94
+Sparks-Nevada,Automotive,Cash,2021-12-17,9.99,1.47
+San Francisco-Carlifornia,Automotive,Cash,2021-10-26,37.93,3.99
+Austin-Texas,Automotive,ATM card,2021-11-04,11.01,0.76
+Houston-Texas,Automotive,ATM card,2021-02-16,13.9,0.97
+Austin-Texas,Automotive,Cash,2021-12-01,31.99,1.99
+Sparks-Nevada,Automotive,Cash,2021-09-15,9.97,1.49
+Buffalo-New York,Automotive,Cash,2021-02-15,33.18,2.56
+San Francisco-Carlifornia,Automotive,ATM card,2021-07-24,11.99,0.81
+Austin-Texas,Automotive,Cash,2021-10-15,25.99,3.0
+Austin-Texas,Automotive,Cash,2021-07-06,7.99,1.03
+San Francisco-Carlifornia,Automotive,ATM card,2021-05-30,29.99,4.01
+Buffalo-New York,Automotive,Cash,2021-09-30,14.88,0.86
+San Francisco-Carlifornia,Automotive,Cash,2021-07-14,5.47,0.55
+Buffalo-New York,Automotive,ATM card,2021-08-29,77.33,10.95
+Austin-Texas,Automotive,Cash,2021-09-03,11.38,0.72
+Austin-Texas,Automotive,Cash,2021-02-09,14.99,1.63
+Austin-Texas,Automotive,Cash,2021-11-16,32.97,3.64
+San Francisco-Carlifornia,Automotive,Cash,2021-03-06,15.49,2.3
+San Francisco-Carlifornia,Automotive,Cash,2021-10-08,5.99,0.7
+San Francisco-Carlifornia,Automotive,Cash,2021-01-03,19.49,2.17
+Austin-Texas,Automotive,Cash,2021-09-04,2.58,0.2
+Austin-Texas,Automotive,ATM card,2021-04-27,15.99,1.64
+San Francisco-Carlifornia,Automotive,Cash,2021-10-22,19.99,1.15
+Buffalo-New York,Automotive,Cash,2021-10-02,49.99,4.92
+Austin-Texas,Automotive,Cash,2021-03-23,55.95,7.15
+Austin-Texas,Automotive,Cash,2021-07-18,12.09,0.86
+San Francisco-Carlifornia,Automotive,Cash,2021-04-11,25.0,3.61
+Austin-Texas,Automotive,Cash,2021-03-15,32.99,4.7
+San Francisco-Carlifornia,Automotive,ATM card,2021-10-08,14.97,2.15
+Austin-Texas,Automotive,ATM card,2021-01-19,6.3,0.64
+Austin-Texas,Automotive,Cash,2021-10-29,32.29,4.25
+San Francisco-Carlifornia,Automotive,Cash,2021-08-09,12.69,0.75
+Buffalo-New York,Automotive,Cash,2021-03-02,39.0,5.05
+Austin-Texas,Automotive,Cash,2021-05-13,14.99,1.08
+Austin-Texas,Automotive,Cash,2021-09-13,22.99,2.39
+Austin-Texas,Automotive,Cash,2021-02-22,15.21,1.62
+San Francisco-Carlifornia,Automotive,Cash,2021-10-20,8.5,0.77
+Austin-Texas,Automotive,Cash,2021-11-26,19.99,1.73
+Austin-Texas,Automotive,Cash,2021-07-28,105.07,12.18
+Austin-Texas,Automotive,Cash,2021-11-06,37.79,2.62
+Buffalo-New York,Automotive,Cash,2021-01-20,26.61,3.15
+Houston-Texas,Automotive,ATM card,2021-05-30,95.39,12.17
+Austin-Texas,Baby,Cash,2021-10-18,18.95,1.73
+Austin-Texas,Baby,ATM card,2021-08-22,15.88,1.12
+San Francisco-Carlifornia,Baby,Check,2021-10-06,15.99,1.77
+Buffalo-New York,Baby,Cash,2021-10-14,12.88,0.97
+San Francisco-Carlifornia,Baby,Cash,2021-09-22,10.0,0.56
+San Francisco-Carlifornia,Baby,Cash,2021-06-02,14.99,1.31
+Austin-Texas,Baby,Cash,2021-09-15,10.99,1.4
+Austin-Texas,Baby,Cash,2021-11-23,8.99,1.25
+Austin-Texas,Baby,Cash,2021-03-19,16.95,0.9
+Buffalo-New York,Baby,Cash,2021-06-12,13.39,0.69
+Austin-Texas,Baby,Cash,2021-11-04,12.99,0.99
+San Francisco-Carlifornia,Baby,ATM card,2021-10-14,12.98,1.49
+Houston-Texas,Baby,Cash,2021-08-05,7.81,1.01
+Austin-Texas,Baby,Cash,2021-11-07,15.6,1.1
+San Francisco-Carlifornia,Baby,Cash,2021-04-11,7.99,0.45
+San Francisco-Carlifornia,Baby,Cash,2021-05-14,7.29,0.43
+Houston-Texas,Baby,Cash,2021-08-26,9.99,0.92
+Buffalo-New York,Baby,Cash,2021-12-13,4.99,0.43
+Austin-Texas,Baby,Cash,2021-07-27,8.99,1.1
+Austin-Texas,Baby,Cash,2021-07-06,4.99,0.25
+San Francisco-Carlifornia,Baby,Cash,2021-10-23,7.53,0.9
+Austin-Texas,Baby,ATM card,2021-03-25,9.99,0.87
+Buffalo-New York,Baby,Cash,2021-07-04,4.99,0.63
+Buffalo-New York,Baby,Cash,2021-11-26,12.99,1.73
+Buffalo-New York,Baby,ATM card,2021-07-28,5.99,0.81
+Austin-Texas,Baby,ATM card,2021-04-18,9.99,1.13
+San Francisco-Carlifornia,Baby,ATM card,2021-11-24,14.92,1.33
+Austin-Texas,Baby,Cash,2021-03-11,2.49,0.33
+Houston-Texas,Baby,ATM card,2021-02-24,4.98,0.29
+Houston-Texas,Baby,Cash,2021-03-19,9.99,1.04
+Houston-Texas,Baby,ATM card,2021-05-15,7.99,0.96
+Houston-Texas,Baby,Cash,2021-03-12,8.99,0.82
+Austin-Texas,Baby,ATM card,2021-06-28,5.99,0.64
+San Francisco-Carlifornia,Baby,Cash,2021-10-30,13.59,1.16
+Austin-Texas,Baby,ATM card,2021-06-15,6.99,1.04
+Austin-Texas,Baby,Cash,2021-11-07,19.69,2.92
+Austin-Texas,Baby,Cash,2021-04-28,18.49,2.06
+Houston-Texas,Baby,ATM card,2021-01-25,15.99,2.28
+Sparks-Nevada,Baby,Cash,2021-03-20,27.99,3.81
+San Francisco-Carlifornia,Baby,ATM card,2021-06-20,10.49,1.1
+Austin-Texas,Baby,ATM card,2021-04-26,19.99,2.93
+San Francisco-Carlifornia,Baby,Cash,2021-07-06,18.79,2.12
+Houston-Texas,Baby,Cash,2021-12-17,6.99,0.97
+San Francisco-Carlifornia,Baby,Cash,2021-09-29,14.88,1.17
+Buffalo-New York,Baby,Cash,2021-11-27,14.98,1.53
+Austin-Texas,Baby,ATM card,2021-10-20,5.32,0.71
+Austin-Texas,Baby,ATM card,2021-09-12,9.42,0.91
+Austin-Texas,Baby,ATM card,2021-08-23,19.99,1.17
+Austin-Texas,Baby,Cash,2021-08-21,9.42,1.05
+San Francisco-Carlifornia,Baby,Cash,2021-06-17,6.51,0.67
+Austin-Texas,Baby,Cash,2021-10-06,16.14,1.63
+San Francisco-Carlifornia,Baby,ATM card,2021-08-29,13.59,1.23
+Houston-Texas,Baby,Cash,2021-01-19,12.99,1.08
+Austin-Texas,Baby,ATM card,2021-08-27,13.59,0.75
+Houston-Texas,Baby,Cash,2021-05-16,29.97,1.67
+San Francisco-Carlifornia,Baby,ATM card,2021-08-26,20.59,1.09
+Sparks-Nevada,Baby,ATM card,2021-12-09,28.99,2.2
+Austin-Texas,Baby,Cash,2021-02-04,159.98,18.22
+Austin-Texas,Baby,Cash,2021-07-29,39.99,5.16
+Austin-Texas,Baby,Cash,2021-10-27,15.99,2.23
+Austin-Texas,Baby,Cash,2021-04-10,139.99,9.78
+Houston-Texas,Baby,Cash,2021-06-18,39.99,5.57
+Austin-Texas,Baby,Cash,2021-02-14,29.95,3.72
+San Francisco-Carlifornia,Baby,Cash,2021-11-18,59.99,5.53
+Houston-Texas,Baby,ATM card,2021-12-01,28.99,3.42
+San Francisco-Carlifornia,Baby,Cash,2021-03-14,29.73,3.32
+San Francisco-Carlifornia,Baby,Cash,2021-03-30,19.99,2.61
+Buffalo-New York,Baby,Cash,2021-02-10,64.99,3.28
+Buffalo-New York,Baby,ATM card,2021-04-24,29.95,3.31
+Houston-Texas,Baby,Cash,2021-03-15,13.57,1.07
+San Francisco-Carlifornia,Baby,ATM card,2021-09-28,234.99,37.69
+San Francisco-Carlifornia,Baby,Cash,2021-08-01,7.49,0.64
+San Francisco-Carlifornia,Baby,Cash,2021-04-01,89.99,6.2
+Buffalo-New York,Baby,ATM card,2021-06-21,309.99,76.81
+Houston-Texas,Baby,Cash,2021-11-03,39.08,5.06
+San Francisco-Carlifornia,Baby,Cash,2021-10-21,31.57,2.15
+San Francisco-Carlifornia,Baby,Cash,2021-05-19,45.9,5.63
+San Francisco-Carlifornia,Baby,Cash,2021-03-24,24.94,2.17
+Austin-Texas,Baby,Cash,2021-12-28,8.97,0.59
+Buffalo-New York,Baby,ATM card,2021-10-22,18.49,2.01
+San Francisco-Carlifornia,Baby,Cash,2021-07-16,16.99,2.02
+Buffalo-New York,Baby,Cash,2021-08-24,21.82,1.27
+Buffalo-New York,Baby,ATM card,2021-05-08,16.99,1.05
+San Francisco-Carlifornia,Baby,Mobile payment,2021-05-10,50.45,5.54
+Houston-Texas,Baby,Cash,2021-05-04,52.98,5.31
+San Francisco-Carlifornia,Baby,ATM card,2021-06-27,51.99,4.59
+Austin-Texas,Baby,Cash,2021-07-06,19.75,2.64
+Austin-Texas,Baby,ATM card,2021-01-15,13.99,2.04
+Austin-Texas,Baby,Cash,2021-04-04,29.99,2.2
+Houston-Texas,Baby,Cash,2021-02-14,24.94,1.63
+Buffalo-New York,Baby,Cash,2021-08-26,49.48,3.32
+San Francisco-Carlifornia,Baby,Cash,2021-08-23,51.27,6.0
+San Francisco-Carlifornia,Baby,Mobile payment,2021-05-30,20.95,2.33
+Buffalo-New York,Baby,ATM card,2021-08-30,31.76,4.31
+Austin-Texas,Baby,Gift card,2021-04-13,54.99,7.01
+San Francisco-Carlifornia,Baby,Cash,2021-03-29,24.99,2.2
+Austin-Texas,Baby,ATM card,2021-06-03,12.94,1.05
+Austin-Texas,Baby,Cash,2021-11-29,5.49,0.59
+Buffalo-New York,Baby,Cash,2021-07-03,7.89,1.18
+Austin-Texas,Baby,Cash,2021-01-22,19.4,2.06
+Houston-Texas,Baby,Cash,2021-01-27,36.48,3.04
+Houston-Texas,Baby,Cash,2021-03-26,8.99,1.1
+Sparks-Nevada,Baby,Cash,2021-10-26,5.95,0.32
+Austin-Texas,Baby,ATM card,2021-02-25,29.24,2.37
+San Francisco-Carlifornia,Baby,Cash,2021-03-19,10.29,0.61
+Austin-Texas,Baby,ATM card,2021-10-02,13.13,0.68
+San Francisco-Carlifornia,Baby,ATM card,2021-09-05,9.29,0.86
+Austin-Texas,Baby,Mobile payment,2021-01-20,9.0,1.07
+San Francisco-Carlifornia,Baby,Cash,2021-08-09,79.99,11.77
+Austin-Texas,Baby,Cash,2021-06-19,22.99,1.95
+San Francisco-Carlifornia,Baby,Cash,2021-02-04,23.95,3.23
+Austin-Texas,Baby,Cash,2021-09-01,20.99,2.35
+Sparks-Nevada,Baby,ATM card,2021-03-12,18.0,1.05
+San Francisco-Carlifornia,Baby,Cash,2021-01-12,10.12,1.51
+Austin-Texas,Baby,Mobile payment,2021-07-27,9.99,0.63
+San Francisco-Carlifornia,Baby,Cash,2021-03-06,13.12,1.1
+Sparks-Nevada,Baby,Cash,2021-01-03,13.59,1.97
+Buffalo-New York,Baby,Mobile payment,2021-11-08,12.99,1.4
+Sparks-Nevada,Baby,ATM card,2021-12-19,12.99,0.69
+Austin-Texas,Baby,Cash,2021-07-19,22.99,1.98
+Buffalo-New York,Baby,Cash,2021-06-17,9.99,0.66
+Austin-Texas,Baby,Cash,2021-05-01,14.99,1.61
+Austin-Texas,Baby,Mobile payment,2021-10-09,20.99,1.91
+Houston-Texas,Baby,Cash,2021-11-26,68.99,9.61
+Buffalo-New York,Baby,Cash,2021-11-09,23.49,3.12
+San Francisco-Carlifornia,Baby,Cash,2021-08-08,19.99,2.42
+San Francisco-Carlifornia,Baby,ATM card,2021-07-05,21.99,2.58
+Austin-Texas,Baby,Cash,2021-02-09,89.99,6.01
+Austin-Texas,Baby,Cash,2021-04-01,29.99,2.84
+Houston-Texas,Baby,Cash,2021-06-03,19.99,1.63
+Buffalo-New York,Baby,ATM card,2021-05-27,34.99,3.25
+Austin-Texas,Baby,Cash,2021-09-15,47.26,3.68
+Austin-Texas,Baby,Cash,2021-07-10,59.92,8.61
+Sparks-Nevada,Baby,Cash,2021-10-05,14.99,0.95
+San Francisco-Carlifornia,Baby,ATM card,2021-07-04,69.99,9.09
+San Francisco-Carlifornia,Baby,Cash,2021-11-06,64.99,4.94
+San Francisco-Carlifornia,Baby,Cash,2021-10-07,49.99,6.22
+Austin-Texas,Baby,Cash,2021-12-10,46.49,3.97
+Austin-Texas,Baby,Cash,2021-10-13,38.95,5.28
+Austin-Texas,Baby,Cash,2021-07-13,10.99,1.14
+Austin-Texas,Baby,ATM card,2021-09-17,24.97,2.28
+Austin-Texas,Baby,Mobile payment,2021-05-27,15.99,1.57
+Austin-Texas,Baby,ATM card,2021-12-06,19.95,1.41
+San Francisco-Carlifornia,Baby,Cash,2021-06-10,29.95,2.19
+Sparks-Nevada,Baby,Cash,2021-05-01,26.48,1.92
+Austin-Texas,Baby,Cash,2021-06-30,45.94,5.87
+Austin-Texas,Baby,Cash,2021-11-24,28.99,4.2
+Houston-Texas,Baby,ATM card,2021-04-03,14.99,1.94
+Austin-Texas,Baby,Cash,2021-12-15,41.98,3.18
+Buffalo-New York,Baby,Cash,2021-04-16,45.35,2.57
+Buffalo-New York,Baby,ATM card,2021-10-26,10.99,1.36
+Buffalo-New York,Baby,Cash,2021-10-14,34.99,2.41
+Austin-Texas,Baby,Cash,2021-04-12,29.99,4.15
+Houston-Texas,Baby,Cash,2021-05-15,45.35,3.24
+San Francisco-Carlifornia,Baby,Cash,2021-01-13,27.0,3.54
+San Francisco-Carlifornia,Baby,ATM card,2021-05-27,35.99,3.05
+San Francisco-Carlifornia,Baby,Cash,2021-10-25,34.99,2.99
+San Francisco-Carlifornia,Baby,ATM card,2021-08-22,24.45,3.32
+San Francisco-Carlifornia,Baby,Cash,2021-07-10,32.16,4.17
+San Francisco-Carlifornia,Baby,Cash,2021-04-18,20.99,2.99
+Austin-Texas,Baby,Cash,2021-11-09,9.99,1.05
+Austin-Texas,Baby,Cash,2021-10-31,19.99,1.89
+San Francisco-Carlifornia,Baby,ATM card,2021-05-01,43.99,3.94
+Buffalo-New York,Baby,Cash,2021-05-15,29.76,2.56
+Sparks-Nevada,Baby,Cash,2021-10-15,15.97,1.88
+Buffalo-New York,Baby,Cash,2021-04-06,27.99,2.53
+Austin-Texas,Baby,Cash,2021-05-08,35.99,2.69
+Austin-Texas,Baby,ATM card,2021-03-09,12.98,1.05
+Austin-Texas,Baby,Cash,2021-04-26,19.99,2.13
+San Francisco-Carlifornia,Baby,Cash,2021-01-08,13.47,1.51
+Austin-Texas,Baby,Cash,2021-03-05,9.99,1.37
+Houston-Texas,Baby,Cash,2021-07-24,8.49,1.25
+Austin-Texas,Baby,ATM card,2021-03-30,35.98,4.22
+Houston-Texas,Baby,Cash,2021-06-09,27.45,3.35
+San Francisco-Carlifornia,Baby,Cash,2021-10-15,9.99,1.0
+San Francisco-Carlifornia,Baby,Cash,2021-01-02,34.99,3.81
+Austin-Texas,Baby,ATM card,2021-10-27,7.98,0.89
+Austin-Texas,Baby,Cash,2021-11-20,44.0,5.7
+Buffalo-New York,Baby,ATM card,2021-07-03,15.95,0.83
+San Francisco-Carlifornia,Baby,Cash,2021-03-03,49.95,6.22
+San Francisco-Carlifornia,Baby,ATM card,2021-10-27,5.95,0.87
+Austin-Texas,Baby,Cash,2021-12-26,5.52,0.79
+Austin-Texas,Baby,Cash,2021-01-09,44.99,4.67
+Houston-Texas,Baby,Cash,2021-09-01,9.95,0.63
+Houston-Texas,Baby,Cash,2021-12-18,15.49,2.26
+Austin-Texas,Baby,Cash,2021-02-12,13.98,0.95
+Sparks-Nevada,Baby,Cash,2021-06-03,19.99,2.6
+Austin-Texas,Baby,Cash,2021-05-18,4.49,0.33
+Austin-Texas,Baby,ATM card,2021-12-27,9.99,0.61
+San Francisco-Carlifornia,Baby,Cash,2021-04-03,39.99,2.93
+Buffalo-New York,Baby,Cash,2021-02-13,10.95,0.68
+Austin-Texas,Baby,Cash,2021-10-31,9.99,0.92
+Austin-Texas,Baby,Cash,2021-06-30,5.5,0.32
+Austin-Texas,Baby,ATM card,2021-02-02,49.99,2.73
+Buffalo-New York,Baby,ATM card,2021-12-14,14.95,0.92
+Houston-Texas,Baby,ATM card,2021-09-12,67.99,5.9
+San Francisco-Carlifornia,Baby,ATM card,2021-07-26,107.99,14.01
+Austin-Texas,Baby,Cash,2021-08-03,29.99,2.18
+Buffalo-New York,Baby,ATM card,2021-06-21,25.99,3.33
+San Francisco-Carlifornia,Baby,Cash,2021-03-15,9.99,1.33
+San Francisco-Carlifornia,Baby,Cash,2021-07-29,6.99,0.64
+Austin-Texas,Baby,Cash,2021-07-01,13.97,1.26
+Austin-Texas,Baby,Cash,2021-07-25,22.99,3.36
+Austin-Texas,Baby,Cash,2021-03-02,29.99,3.16
+Austin-Texas,Baby,Cash,2021-09-28,79.86,10.45
+Buffalo-New York,Baby,Cash,2021-05-08,139.0,20.3
+San Francisco-Carlifornia,Baby,Cash,2021-02-04,12.99,1.29
+Sparks-Nevada,Baby,ATM card,2021-02-25,189.99,29.96
+Houston-Texas,Baby,Cash,2021-05-21,12.98,1.94
+Buffalo-New York,Baby,Mobile payment,2021-07-29,29.95,2.34
+Austin-Texas,Baby,Cash,2021-07-24,32.98,4.0
+San Francisco-Carlifornia,Baby,Cash,2021-04-25,33.99,4.54
+Austin-Texas,Baby,Cash,2021-11-30,35.69,5.29
+Austin-Texas,Baby,Cash,2021-03-19,44.99,5.78
+Houston-Texas,Beauty & Personal Care,ATM card,2021-10-11,12.99,1.62
+San Francisco-Carlifornia,Beauty & Personal Care,ATM card,2021-05-30,6.93,0.87
+San Francisco-Carlifornia,Beauty & Personal Care,Cash,2021-10-13,17.78,1.32
+San Francisco-Carlifornia,Beauty & Personal Care,Cash,2021-05-11,39.0,5.73
+Austin-Texas,Beauty & Personal Care,Cash,2021-07-02,9.48,0.72
+San Francisco-Carlifornia,Beauty & Personal Care,Cash,2021-08-28,19.99,1.91
+San Francisco-Carlifornia,Beauty & Personal Care,Cash,2021-03-26,5.96,0.87
+Austin-Texas,Beauty & Personal Care,Cash,2021-04-21,9.49,0.96
+San Francisco-Carlifornia,Beauty & Personal Care,Cash,2021-06-04,16.99,0.95
+Austin-Texas,Beauty & Personal Care,Cash,2021-05-15,15.99,1.55
+Austin-Texas,Beauty & Personal Care,ATM card,2021-08-23,11.24,1.02
+Buffalo-New York,Beauty & Personal Care,Cash,2021-09-06,9.87,0.96
+Buffalo-New York,Beauty & Personal Care,Cash,2021-11-05,15.99,1.34
+Buffalo-New York,Beauty & Personal Care,Cash,2021-03-13,22.99,1.47
+San Francisco-Carlifornia,Beauty & Personal Care,Cash,2021-10-09,34.5,2.89
+Austin-Texas,Beauty & Personal Care,Cash,2021-05-24,8.99,1.02
+Austin-Texas,Beauty & Personal Care,Cash,2021-02-25,24.57,2.26
+Buffalo-New York,Beauty & Personal Care,Cash,2021-01-12,7.52,1.05
+Austin-Texas,Beauty & Personal Care,ATM card,2021-06-05,17.04,1.0
+San Francisco-Carlifornia,Beauty & Personal Care,ATM card,2021-05-14,12.99,1.63
+Buffalo-New York,Beauty & Personal Care,Cash,2021-02-19,14.84,2.06
+Austin-Texas,Beauty & Personal Care,Cash,2021-09-22,34.18,2.83
+Houston-Texas,Beauty & Personal Care,Cash,2021-11-11,28.0,1.89
+San Francisco-Carlifornia,Beauty & Personal Care,ATM card,2021-10-20,9.99,1.26
+Buffalo-New York,Beauty & Personal Care,ATM card,2021-08-12,28.0,3.25
+Houston-Texas,Beauty & Personal Care,Cash,2021-05-28,28.0,2.31
+Austin-Texas,Beauty & Personal Care,Cash,2021-02-28,8.39,1.19
+Austin-Texas,Beauty & Personal Care,Gift card,2021-04-27,28.0,3.26
+San Francisco-Carlifornia,Beauty & Personal Care,Cash,2021-12-13,7.98,0.59
+Austin-Texas,Beauty & Personal Care,Cash,2021-05-31,12.95,1.08
+Sparks-Nevada,Beauty & Personal Care,Cash,2021-07-13,7.67,0.81
+Buffalo-New York,Beauty & Personal Care,Cash,2021-05-23,25.49,1.89
+San Francisco-Carlifornia,Beauty & Personal Care,Cash,2021-12-12,23.82,2.44
+Buffalo-New York,Beauty & Personal Care,Cash,2021-12-17,28.0,3.56
+Buffalo-New York,Beauty & Personal Care,Cash,2021-12-31,5.99,0.52
+San Francisco-Carlifornia,Beauty & Personal Care,Mobile payment,2021-01-02,13.5,1.1
+San Francisco-Carlifornia,Beauty & Personal Care,Cash,2021-03-11,11.44,0.85
+Austin-Texas,Beauty & Personal Care,ATM card,2021-10-10,37.56,5.56
+San Francisco-Carlifornia,Beauty & Personal Care,Cash,2021-04-29,3.92,0.58
+Austin-Texas,Beauty & Personal Care,Cash,2021-06-15,7.83,0.86
+Austin-Texas,Beauty & Personal Care,Cash,2021-01-15,34.99,3.42
+Buffalo-New York,Beauty & Personal Care,Cash,2021-11-21,5.99,0.57
+Buffalo-New York,Beauty & Personal Care,Cash,2021-05-01,7.9,0.79
+Sparks-Nevada,Beauty & Personal Care,Cash,2021-08-24,15.95,2.28
+San Francisco-Carlifornia,Beauty & Personal Care,Cash,2021-08-30,18.99,1.99
+Buffalo-New York,Beauty & Personal Care,Cash,2021-10-27,29.9,2.38
+Austin-Texas,Beauty & Personal Care,Cash,2021-09-29,10.19,0.8
+Houston-Texas,Beauty & Personal Care,Cash,2021-12-26,11.99,1.14
+Austin-Texas,Beauty & Personal Care,Cash,2021-10-02,13.59,0.79
+Sparks-Nevada,Beauty & Personal Care,Cash,2021-07-24,19.85,1.56
+Austin-Texas,Beauty & Personal Care,ATM card,2021-05-20,36.5,5.45
+Austin-Texas,Beauty & Personal Care,Cash,2021-11-13,24.79,3.37
+San Francisco-Carlifornia,Beauty & Personal Care,Cash,2021-08-03,7.99,0.42
+Sparks-Nevada,Beauty & Personal Care,Cash,2021-11-11,9.95,1.47
+Austin-Texas,Beauty & Personal Care,Cash,2021-09-06,6.99,0.72
+San Francisco-Carlifornia,Beauty & Personal Care,Cash,2021-03-07,25.99,2.61
+Austin-Texas,Beauty & Personal Care,Cash,2021-11-18,7.99,0.76
+Buffalo-New York,Beauty & Personal Care,ATM card,2021-02-22,7.99,0.8
+Buffalo-New York,Beauty & Personal Care,Cash,2021-01-16,9.99,0.75
+Austin-Texas,Beauty & Personal Care,ATM card,2021-02-17,6.49,0.39
+Austin-Texas,Beauty & Personal Care,Cash,2021-04-23,4.99,0.29
+Austin-Texas,Beauty & Personal Care,ATM card,2021-08-30,13.65,1.3
+Austin-Texas,Beauty & Personal Care,Cash,2021-07-05,3.89,0.42
+San Francisco-Carlifornia,Beauty & Personal Care,Cash,2021-01-29,21.24,3.08
+San Francisco-Carlifornia,Beauty & Personal Care,Cash,2021-09-19,4.97,0.46
+Sparks-Nevada,Beauty & Personal Care,Cash,2021-09-06,19.99,2.76
+Houston-Texas,Beauty & Personal Care,Cash,2021-09-12,24.99,3.6
+Austin-Texas,Beauty & Personal Care,Cash,2021-02-20,8.5,0.5
+San Francisco-Carlifornia,Beauty & Personal Care,Cash,2021-11-27,5.94,0.37
+San Francisco-Carlifornia,Beauty & Personal Care,Cash,2021-09-22,6.99,0.55
+Austin-Texas,Beauty & Personal Care,Cash,2021-01-03,10.98,1.28
+Austin-Texas,Beauty & Personal Care,ATM card,2021-08-15,12.99,1.0
+Austin-Texas,Beauty & Personal Care,ATM card,2021-04-14,5.15,0.3
+Houston-Texas,Beauty & Personal Care,Cash,2021-03-30,4.99,0.57
+Buffalo-New York,Beauty & Personal Care,Cash,2021-07-02,2.98,0.38
+Austin-Texas,Beauty & Personal Care,Mobile payment,2021-04-16,19.96,1.74
+San Francisco-Carlifornia,Beauty & Personal Care,Cash,2021-12-27,9.79,1.04
+Austin-Texas,Beauty & Personal Care,Cash,2021-12-03,8.59,1.2
+Buffalo-New York,Beauty & Personal Care,Cash,2021-06-12,2.88,0.17
+Buffalo-New York,Beauty & Personal Care,Cash,2021-04-13,12.99,0.92
+Sparks-Nevada,Beauty & Personal Care,Cash,2021-11-23,16.99,2.33
+Austin-Texas,Beauty & Personal Care,Cash,2021-08-12,4.95,0.51
+Buffalo-New York,Beauty & Personal Care,Cash,2021-10-27,6.97,0.88
+Sparks-Nevada,Beauty & Personal Care,Cash,2021-10-16,18.83,1.97
+San Francisco-Carlifornia,Beauty & Personal Care,ATM card,2021-06-30,7.99,0.56
+Buffalo-New York,Beauty & Personal Care,Cash,2021-01-05,8.01,0.74
+Austin-Texas,Beauty & Personal Care,Cash,2021-03-20,9.99,0.51
+San Francisco-Carlifornia,Beauty & Personal Care,Cash,2021-04-29,6.99,0.94
+San Francisco-Carlifornia,Beauty & Personal Care,Cash,2021-11-03,11.99,1.4
+Austin-Texas,Beauty & Personal Care,Cash,2021-12-02,7.99,0.66
+Austin-Texas,Beauty & Personal Care,ATM card,2021-07-02,30.95,3.94
+Buffalo-New York,Beauty & Personal Care,ATM card,2021-06-02,34.99,4.12
+Houston-Texas,Beauty & Personal Care,ATM card,2021-09-12,39.96,3.47
+Houston-Texas,Beauty & Personal Care,ATM card,2021-04-09,18.89,2.52
+Austin-Texas,Beauty & Personal Care,Cash,2021-04-28,9.99,1.43
+Austin-Texas,Beauty & Personal Care,Cash,2021-06-23,1.9,0.17
+San Francisco-Carlifornia,Beauty & Personal Care,Cash,2021-04-28,21.99,2.26
+San Francisco-Carlifornia,Beauty & Personal Care,ATM card,2021-04-25,34.96,2.05
+Austin-Texas,Beauty & Personal Care,Cash,2021-03-26,3.78,0.32
+San Francisco-Carlifornia,Beauty & Personal Care,Cash,2021-08-18,59.96,5.22
+San Francisco-Carlifornia,Beauty & Personal Care,Cash,2021-10-22,34.99,2.8
+Buffalo-New York,Beauty & Personal Care,ATM card,2021-11-26,19.98,1.25
+Austin-Texas,Beauty & Personal Care,Cash,2021-12-08,11.39,0.87
+San Francisco-Carlifornia,Beauty & Personal Care,Cash,2021-10-27,89.99,7.19
+San Francisco-Carlifornia,Beauty & Personal Care,Cash,2021-04-03,49.99,3.55
+Houston-Texas,Beauty & Personal Care,Cash,2021-04-02,39.99,4.9
+San Francisco-Carlifornia,Beauty & Personal Care,ATM card,2021-07-20,53.99,7.49
+San Francisco-Carlifornia,Beauty & Personal Care,Cash,2021-03-11,6.62,0.58
+Buffalo-New York,Beauty & Personal Care,ATM card,2021-10-27,26.99,2.52
+Austin-Texas,Beauty & Personal Care,Cash,2021-04-28,9.97,0.7
+Austin-Texas,Beauty & Personal Care,Cash,2021-05-12,47.99,5.65
+Austin-Texas,Beauty & Personal Care,Cash,2021-02-02,5.99,0.36
+Buffalo-New York,Beauty & Personal Care,Cash,2021-03-20,14.76,1.01
+Austin-Texas,Beauty & Personal Care,Cash,2021-03-11,7.98,1.11
+Austin-Texas,Beauty & Personal Care,Cash,2021-08-13,49.95,3.95
+Houston-Texas,Beauty & Personal Care,Cash,2021-07-05,5.0,0.34
+Austin-Texas,Beauty & Personal Care,Cash,2021-01-29,9.99,1.31
+Austin-Texas,Beauty & Personal Care,Cash,2021-05-14,16.99,2.5
+San Francisco-Carlifornia,Beauty & Personal Care,Cash,2021-11-21,99.95,14.35
+San Francisco-Carlifornia,Beauty & Personal Care,Cash,2021-05-14,17.95,2.47
+San Francisco-Carlifornia,Beauty & Personal Care,ATM card,2021-03-19,14.97,1.08
+San Francisco-Carlifornia,Beauty & Personal Care,ATM card,2021-11-30,20.49,2.77
+Austin-Texas,Beauty & Personal Care,Cash,2021-08-17,19.49,2.31
+Austin-Texas,Computers,Cash,2021-12-09,61.99,9.23
+Austin-Texas,Computers,Cash,2021-01-22,114.99,13.56
+San Francisco-Carlifornia,Computers,Cash,2021-01-04,114.99,10.12
+San Francisco-Carlifornia,Computers,Cash,2021-10-21,199.99,21.11
+San Francisco-Carlifornia,Computers,Cash,2021-03-08,109.99,7.64
+Austin-Texas,Computers,Cash,2021-05-10,22.99,2.99
+Buffalo-New York,Computers,Gift card,2021-06-12,132.99,17.18
+Houston-Texas,Computers,Cash,2021-04-22,269.99,40.41
+Austin-Texas,Computers,Cash,2021-07-16,109.99,13.38
+San Francisco-Carlifornia,Computers,Cash,2021-04-11,119.99,7.48
+San Francisco-Carlifornia,Computers,Cash,2021-01-11,73.99,8.8
+San Francisco-Carlifornia,Computers,Cash,2021-06-08,47.99,6.14
+Austin-Texas,Computers,Cash,2021-09-08,54.99,6.44
+Austin-Texas,Computers,ATM card,2021-02-06,309.99,53.03
+San Francisco-Carlifornia,Computers,Cash,2021-05-09,55.99,6.05
+Buffalo-New York,Computers,Cash,2021-03-17,129.99,19.3
+Houston-Texas,Computers,Mobile payment,2021-12-22,755.29,115.5
+San Francisco-Carlifornia,Computers,Cash,2021-09-26,369.99,82.03
+Austin-Texas,Computers,Cash,2021-08-24,159.01,35.57
+Buffalo-New York,Computers,Cash,2021-09-29,202.0,26.83
+San Francisco-Carlifornia,Computers,ATM card,2021-03-03,68.95,7.59
+Buffalo-New York,Computers,Cash,2021-04-14,139.0,7.86
+San Francisco-Carlifornia,Computers,ATM card,2021-06-28,199.0,32.62
+Sparks-Nevada,Computers,Cash,2021-08-02,15.28,2.06
+San Francisco-Carlifornia,Computers,Cash,2021-11-18,29.99,2.08
+Buffalo-New York,Computers,Cash,2021-01-30,79.99,10.36
+Buffalo-New York,Computers,Cash,2021-07-13,122.68,12.18
+San Francisco-Carlifornia,Computers,Cash,2021-03-28,149.0,17.65
+Houston-Texas,Computers,Cash,2021-06-12,74.99,7.66
+San Francisco-Carlifornia,Computers,Cash,2021-05-27,89.99,8.84
+Sparks-Nevada,Computers,ATM card,2021-02-25,82.99,10.87
+Austin-Texas,Computers,ATM card,2021-04-24,299.99,30.58
+Sparks-Nevada,Computers,Cash,2021-06-03,34.99,3.43
+San Francisco-Carlifornia,Computers,ATM card,2021-07-14,299.99,41.62
+Austin-Texas,Computers,ATM card,2021-06-08,328.0,80.06
+Buffalo-New York,Computers,Cash,2021-12-21,91.99,11.33
+Buffalo-New York,Computers,Cash,2021-03-03,155.99,38.56
+Houston-Texas,Computers,ATM card,2021-08-06,29.99,1.92
+Houston-Texas,Computers,ATM card,2021-11-11,7.88,0.52
+Austin-Texas,Computers,ATM card,2021-09-03,28.99,2.31
+Buffalo-New York,Computers,Mobile payment,2021-12-08,129.0,14.87
+Austin-Texas,Computers,Cash,2021-01-21,32.99,1.83
+Buffalo-New York,Computers,Cash,2021-10-22,14.11,2.05
+Buffalo-New York,Computers,Cash,2021-02-18,39.99,3.81
+Houston-Texas,Computers,Cash,2021-12-06,13.89,1.35
+Austin-Texas,Computers,ATM card,2021-03-30,39.99,2.89
+Austin-Texas,Computers,ATM card,2021-11-04,135.0,12.02
+San Francisco-Carlifornia,Computers,Cash,2021-08-27,197.0,23.19
+San Francisco-Carlifornia,Computers,ATM card,2021-02-01,139.99,15.12
+Austin-Texas,Computers,Cash,2021-06-14,129.99,13.37
+Sparks-Nevada,Computers,ATM card,2021-04-17,187.74,40.95
+Austin-Texas,Computers,ATM card,2021-06-17,365.73,42.6
+Austin-Texas,Computers,Cash,2021-01-20,108.38,8.36
+San Francisco-Carlifornia,Computers,Cash,2021-12-23,114.45,7.16
+Buffalo-New York,Computers,Cash,2021-07-06,201.99,44.21
+Austin-Texas,Computers,Cash,2021-05-10,205.0,46.33
+Austin-Texas,Computers,Cash,2021-06-17,46.01,4.91
+Buffalo-New York,Computers,Cash,2021-03-31,24.0,2.79
+Houston-Texas,Computers,Cash,2021-08-08,38.94,3.53
+Buffalo-New York,Computers,Cash,2021-10-25,89.45,11.53
+San Francisco-Carlifornia,Computers,Cash,2021-10-26,179.98,36.45
+Buffalo-New York,Computers,Cash,2021-12-07,17.99,1.48
+Sparks-Nevada,Computers,Cash,2021-09-05,53.99,2.99
+Sparks-Nevada,Computers,Cash,2021-12-13,24.97,2.15
+Buffalo-New York,Computers,Cash,2021-04-21,149.99,20.84
+Houston-Texas,Computers,Cash,2021-07-11,152.05,24.98
+Austin-Texas,Computers,Cash,2021-08-14,99.31,5.22
+Austin-Texas,Computers,Cash,2021-08-25,174.98,39.79
+Austin-Texas,Computers,Cash,2021-05-16,43.44,3.68
+Austin-Texas,Computers,ATM card,2021-10-31,44.29,6.52
+Austin-Texas,Computers,Cash,2021-06-12,193.86,36.8
+Buffalo-New York,Computers,Cash,2021-04-22,21.99,2.15
+San Francisco-Carlifornia,Computers,Cash,2021-12-16,22.95,2.76
+San Francisco-Carlifornia,Computers,Cash,2021-05-15,19.94,2.93
+Austin-Texas,Computers,Cash,2021-04-29,19.99,1.69
+Austin-Texas,Computers,Cash,2021-07-21,9.99,1.0
+San Francisco-Carlifornia,Computers,Cash,2021-08-07,19.99,2.12
+Austin-Texas,Computers,Cash,2021-05-19,22.95,2.67
+Austin-Texas,Computers,Cash,2021-02-13,18.99,2.71
+Houston-Texas,Computers,ATM card,2021-07-10,10.99,0.79
+Buffalo-New York,Computers,ATM card,2021-08-06,16.99,2.03
+Sparks-Nevada,Computers,ATM card,2021-11-11,11.34,1.52
+San Francisco-Carlifornia,Computers,ATM card,2021-09-06,17.99,1.91
+San Francisco-Carlifornia,Computers,Cash,2021-03-31,25.49,3.82
+Austin-Texas,Computers,Cash,2021-07-03,29.99,4.15
+Houston-Texas,Computers,Cash,2021-03-16,15.29,1.25
+Austin-Texas,Computers,ATM card,2021-07-14,11.46,1.47
+San Francisco-Carlifornia,Computers,Cash,2021-02-04,24.95,3.59
+Sparks-Nevada,Computers,ATM card,2021-04-14,47.33,6.28
+Austin-Texas,Computers,Cash,2021-08-12,46.99,3.34
+San Francisco-Carlifornia,Computers,ATM card,2021-03-02,18.99,2.14
+San Francisco-Carlifornia,Computers,Cash,2021-07-13,15.25,0.92
+Sparks-Nevada,Computers,Cash,2021-08-25,22.99,2.73
+San Francisco-Carlifornia,Computers,Cash,2021-03-27,14.99,1.28
+Buffalo-New York,Computers,ATM card,2021-08-26,11.25,0.7
+Austin-Texas,Computers,Cash,2021-05-04,89.99,12.18
+Houston-Texas,Computers,Cash,2021-12-10,67.49,8.54
+San Francisco-Carlifornia,Computers,ATM card,2021-10-24,374.99,43.12
+Austin-Texas,Computers,Cash,2021-03-28,235.0,49.19
+Austin-Texas,Computers,Cash,2021-03-11,228.9,37.84
+Sparks-Nevada,Computers,Cash,2021-03-08,173.99,23.38
+Austin-Texas,Computers,Cash,2021-08-26,36.99,5.14
+Austin-Texas,Computers,Cash,2021-04-28,199.0,24.24
+Austin-Texas,Computers,Cash,2021-08-07,119.99,16.65
+Austin-Texas,Computers,Cash,2021-12-24,159.98,31.33
+San Francisco-Carlifornia,Computers,Cash,2021-01-01,8.99,0.62
+Austin-Texas,Computers,Cash,2021-04-28,23.79,2.52
+Austin-Texas,Computers,Cash,2021-05-31,8.79,1.13
+Austin-Texas,Computers,Cash,2021-11-30,10.99,1.54
+Buffalo-New York,Computers,Cash,2021-06-08,8.98,0.84
+San Francisco-Carlifornia,Computers,ATM card,2021-01-10,7.63,0.64
+San Francisco-Carlifornia,Computers,ATM card,2021-12-17,21.99,2.8
+Austin-Texas,Computers,Cash,2021-06-21,27.99,2.87
+Austin-Texas,Computers,Cash,2021-03-04,58.95,5.59
+Buffalo-New York,Computers,ATM card,2021-06-20,69.99,9.79
+San Francisco-Carlifornia,Computers,ATM card,2021-02-14,26.99,3.27
+San Francisco-Carlifornia,Computers,Cash,2021-09-03,18.99,1.12
+Austin-Texas,Computers,ATM card,2021-01-06,15.99,1.49
+Sparks-Nevada,Computers,ATM card,2021-02-06,19.99,2.18
+Austin-Texas,Computers,ATM card,2021-05-18,10.08,1.42
+Austin-Texas,Computers,Cash,2021-12-01,29.99,2.55
+Houston-Texas,Electronics,Gift card,2021-08-10,159.99,24.94
+Austin-Texas,Electronics,Cash,2021-08-16,35.98,5.33
+Austin-Texas,Electronics,ATM card,2021-10-12,13.98,0.96
+Sparks-Nevada,Electronics,Cash,2021-11-15,17.99,1.36
+San Francisco-Carlifornia,Electronics,Cash,2021-07-20,154.99,20.42
+Sparks-Nevada,Electronics,Cash,2021-12-30,37.4,3.44
+San Francisco-Carlifornia,Electronics,ATM card,2021-08-05,28.79,3.93
+San Francisco-Carlifornia,Electronics,ATM card,2021-02-17,26.99,3.47
+San Francisco-Carlifornia,Electronics,Cash,2021-04-01,34.05,4.99
+San Francisco-Carlifornia,Electronics,Cash,2021-05-27,20.49,1.45
+Buffalo-New York,Electronics,ATM card,2021-07-19,53.99,6.1
+Austin-Texas,Electronics,Mobile payment,2021-10-24,789.0,115.75
+Austin-Texas,Electronics,Cash,2021-03-28,24.65,3.54
+Austin-Texas,Electronics,Mobile payment,2021-05-05,599.0,117.85
+Sparks-Nevada,Electronics,Cash,2021-09-30,35.99,5.37
+Buffalo-New York,Electronics,Cash,2021-08-21,17.45,1.31
+Houston-Texas,Electronics,Mobile payment,2021-04-09,14.99,2.14
+San Francisco-Carlifornia,Electronics,Cash,2021-12-10,259.99,37.21
+San Francisco-Carlifornia,Electronics,ATM card,2021-09-16,29.98,2.27
+San Francisco-Carlifornia,Electronics,Cash,2021-06-19,8.98,0.51
+Austin-Texas,Electronics,Cash,2021-01-09,7.63,1.06
+San Francisco-Carlifornia,Electronics,Mobile payment,2021-04-09,9.99,1.16
+San Francisco-Carlifornia,Electronics,Cash,2021-07-01,7.89,0.54
+Austin-Texas,Electronics,ATM card,2021-12-20,25.99,3.88
+Buffalo-New York,Electronics,Mobile payment,2021-11-16,9.34,1.15
+Austin-Texas,Electronics,Cash,2021-11-07,7.89,1.0
+San Francisco-Carlifornia,Electronics,ATM card,2021-02-26,8.88,0.59
+San Francisco-Carlifornia,Electronics,ATM card,2021-03-10,8.88,0.85
+Austin-Texas,Electronics,Cash,2021-03-01,57.99,6.19
+Austin-Texas,Electronics,ATM card,2021-07-25,11.99,1.74
+Sparks-Nevada,Electronics,Cash,2021-06-02,6.79,0.59
+Austin-Texas,Electronics,Cash,2021-09-20,13.99,0.75
+Houston-Texas,Electronics,Check,2021-04-02,348.0,59.71
+Buffalo-New York,Electronics,Cash,2021-03-29,28.99,2.93
+Austin-Texas,Electronics,Cash,2021-01-21,9.99,1.16
+Austin-Texas,Electronics,Cash,2021-02-21,41.89,3.8
+Buffalo-New York,Electronics,Cash,2021-10-19,69.49,9.79
+Austin-Texas,Electronics,Cash,2021-02-28,16.89,2.06
+Sparks-Nevada,Electronics,ATM card,2021-02-19,99.0,11.58
+Buffalo-New York,Electronics,Cash,2021-03-12,21.89,1.37
+Austin-Texas,Electronics,Cash,2021-06-01,26.99,1.65
+San Francisco-Carlifornia,Electronics,ATM card,2021-11-02,9.99,1.47
+Buffalo-New York,Electronics,Cash,2021-10-20,149.0,10.46
+Austin-Texas,Electronics,Cash,2021-03-23,41.89,3.29
+Austin-Texas,Electronics,Cash,2021-08-26,75.99,6.72
+Buffalo-New York,Electronics,Cash,2021-05-20,24.99,2.41
+Austin-Texas,Electronics,Cash,2021-08-08,179.55,23.86
+Sparks-Nevada,Electronics,Cash,2021-02-03,29.99,2.83
+Austin-Texas,Electronics,Cash,2021-04-15,18.88,2.6
+Austin-Texas,Electronics,Cash,2021-06-18,239.99,57.87
+Austin-Texas,Electronics,Cash,2021-03-15,39.99,2.06
+Austin-Texas,Electronics,ATM card,2021-02-04,299.42,73.35
+Sparks-Nevada,Electronics,Cash,2021-06-02,6.9,0.87
+San Francisco-Carlifornia,Electronics,Cash,2021-06-08,129.56,18.88
+San Francisco-Carlifornia,Electronics,Mobile payment,2021-08-03,495.0,93.43
+Austin-Texas,Electronics,ATM card,2021-09-27,278.0,38.39
+Austin-Texas,Electronics,Cash,2021-08-10,16.98,2.12
+San Francisco-Carlifornia,Electronics,ATM card,2021-01-13,379.0,41.3
+San Francisco-Carlifornia,Electronics,Cash,2021-12-30,148.5,15.52
+San Francisco-Carlifornia,Electronics,ATM card,2021-06-13,22.99,2.77
+San Francisco-Carlifornia,Electronics,ATM card,2021-08-10,39.99,5.86
+San Francisco-Carlifornia,Electronics,Cash,2021-02-22,31.99,3.64
+Austin-Texas,Electronics,Cash,2021-11-03,279.0,45.72
+Buffalo-New York,Electronics,Cash,2021-11-20,67.99,6.01
+San Francisco-Carlifornia,Electronics,Cash,2021-02-02,117.99,16.93
+Austin-Texas,Electronics,Cash,2021-01-11,34.99,2.44
+Austin-Texas,Electronics,Cash,2021-02-12,34.99,3.08
+Buffalo-New York,Electronics,Cash,2021-11-22,39.99,3.14
+Austin-Texas,Electronics,Cash,2021-01-26,39.99,3.0
+Sparks-Nevada,Electronics,Cash,2021-05-15,19.88,2.6
+Buffalo-New York,Electronics,ATM card,2021-07-16,24.97,1.61
+Austin-Texas,Electronics,Cash,2021-02-07,89.94,7.82
+Austin-Texas,Electronics,Cash,2021-02-09,10.99,1.2
+Austin-Texas,Electronics,Cash,2021-02-10,9.99,1.4
+San Francisco-Carlifornia,Electronics,Cash,2021-08-17,8.77,0.99
+San Francisco-Carlifornia,Electronics,Cash,2021-12-22,44.42,6.52
+San Francisco-Carlifornia,Electronics,ATM card,2021-03-23,119.0,6.83
+Austin-Texas,Electronics,Cash,2021-03-08,39.89,3.46
+San Francisco-Carlifornia,Electronics,Cash,2021-03-27,31.89,4.36
+Houston-Texas,Electronics,ATM card,2021-11-25,41.89,2.95
+Austin-Texas,Electronics,Cash,2021-05-10,32.89,2.98
+San Francisco-Carlifornia,Electronics,ATM card,2021-04-13,24.94,2.06
+Buffalo-New York,Electronics,Cash,2021-09-19,45.89,5.47
+Austin-Texas,Electronics,ATM card,2021-11-09,29.0,2.65
+Buffalo-New York,Electronics,Cash,2021-07-12,21.89,2.68
+Buffalo-New York,Electronics,ATM card,2021-03-19,45.48,6.71
+Buffalo-New York,Electronics,ATM card,2021-08-16,18.89,1.81
+Austin-Texas,Electronics,ATM card,2021-11-29,55.48,4.96
+San Francisco-Carlifornia,Electronics,Mobile payment,2021-06-07,44.89,5.43
+San Francisco-Carlifornia,Electronics,ATM card,2021-09-10,89.99,8.12
+Buffalo-New York,Electronics,Cash,2021-08-05,19.89,1.28
+Buffalo-New York,Electronics,ATM card,2021-01-28,9.99,0.7
+Sparks-Nevada,Electronics,Cash,2021-04-20,54.99,3.37
+Buffalo-New York,Electronics,Cash,2021-09-15,35.99,4.67
+San Francisco-Carlifornia,Electronics,Cash,2021-12-31,10.19,1.44
+Austin-Texas,Electronics,ATM card,2021-07-31,37.99,5.64
+Houston-Texas,Electronics,Cash,2021-01-10,89.99,6.52
+Austin-Texas,Electronics,Cash,2021-01-22,159.99,19.86
+Austin-Texas,Electronics,Cash,2021-06-11,66.99,5.29
+San Francisco-Carlifornia,Electronics,Cash,2021-06-01,197.97,41.45
+Austin-Texas,Electronics,Cash,2021-03-03,89.99,12.07
+Buffalo-New York,Electronics,ATM card,2021-05-06,99.99,6.6
+Austin-Texas,Electronics,Cash,2021-08-15,49.99,5.48
+San Francisco-Carlifornia,Electronics,Cash,2021-01-07,24.99,2.09
+Austin-Texas,Electronics,Mobile payment,2021-12-24,69.99,6.67
+Austin-Texas,Electronics,ATM card,2021-02-02,84.99,9.16
+Houston-Texas,Electronics,ATM card,2021-08-10,49.99,4.59
+Austin-Texas,Electronics,Cash,2021-10-22,59.98,7.94
+Austin-Texas,Electronics,Cash,2021-08-25,26.96,2.4
+Austin-Texas,Electronics,ATM card,2021-12-12,29.99,2.55
+Austin-Texas,Electronics,Cash,2021-12-09,29.99,4.17
+Austin-Texas,Electronics,ATM card,2021-01-01,179.9,24.18
+Austin-Texas,Electronics,Cash,2021-07-16,28.9,2.5
+Austin-Texas,Electronics,Cash,2021-06-08,12.99,1.63
+Austin-Texas,Electronics,Cash,2021-10-12,79.99,10.19
+Austin-Texas,Electronics,Cash,2021-10-04,227.99,28.52
+Austin-Texas,Electronics,Cash,2021-04-13,54.99,4.17
+Sparks-Nevada,Electronics,Cash,2021-10-15,28.17,2.41
+Austin-Texas,Electronics,ATM card,2021-01-24,13.99,1.57
+Austin-Texas,Electronics,ATM card,2021-08-08,16.99,1.67
+Houston-Texas,Electronics,Mobile payment,2021-10-15,38.88,2.25
+Houston-Texas,Electronics,Mobile payment,2021-01-22,38.99,2.89
+Austin-Texas,Electronics,ATM card,2021-10-28,59.99,7.43
+San Francisco-Carlifornia,Electronics,Gift card,2021-11-19,69.95,9.56
+Austin-Texas,Electronics,Cash,2021-10-28,49.99,5.5
+Austin-Texas,Electronics,ATM card,2021-06-05,289.0,52.39
+San Francisco-Carlifornia,Electronics,Cash,2021-04-21,79.69,10.05
+Houston-Texas,Electronics,Cash,2021-01-12,219.99,49.12
+San Francisco-Carlifornia,Electronics,Cash,2021-03-30,163.94,17.15
+San Francisco-Carlifornia,Electronics,ATM card,2021-08-31,15.99,1.83
+Austin-Texas,Electronics,Cash,2021-09-12,25.49,1.69
+Austin-Texas,Electronics,ATM card,2021-08-20,45.99,5.08
+Austin-Texas,Electronics,ATM card,2021-03-10,49.99,5.38
+San Francisco-Carlifornia,Electronics,Cash,2021-12-13,97.99,6.15
+San Francisco-Carlifornia,Electronics,Cash,2021-08-13,13.99,2.02
+San Francisco-Carlifornia,Electronics,ATM card,2021-07-30,9.99,1.31
+Buffalo-New York,Electronics,ATM card,2021-04-28,18.87,2.07
+San Francisco-Carlifornia,Electronics,ATM card,2021-06-04,49.99,5.97
+Austin-Texas,Electronics,ATM card,2021-09-06,189.98,20.13
+Austin-Texas,Electronics,Cash,2021-02-20,42.48,5.69
+Buffalo-New York,Electronics,ATM card,2021-10-09,149.98,22.02
+Buffalo-New York,Electronics,Mobile payment,2021-05-21,119.97,17.48
+San Francisco-Carlifornia,Electronics,ATM card,2021-08-12,199.0,38.37
+San Francisco-Carlifornia,Electronics,ATM card,2021-04-16,163.99,32.3
+Austin-Texas,Electronics,Cash,2021-05-04,199.0,47.95
+San Francisco-Carlifornia,Electronics,Cash,2021-06-25,10.99,0.63
+San Francisco-Carlifornia,Electronics,ATM card,2021-07-02,9.99,1.33
+Austin-Texas,Electronics,ATM card,2021-10-03,14.99,1.0
+San Francisco-Carlifornia,Electronics,Cash,2021-11-14,14.44,1.77
+Austin-Texas,Electronics,ATM card,2021-01-23,9.99,1.35
+San Francisco-Carlifornia,Electronics,Cash,2021-01-08,9.99,0.95
+Austin-Texas,Electronics,Cash,2021-09-20,15.99,1.21
+Austin-Texas,Electronics,ATM card,2021-10-08,45.99,3.35
+Austin-Texas,Electronics,Cash,2021-06-07,54.99,4.51
+Houston-Texas,Electronics,ATM card,2021-04-16,21.99,2.97
+San Francisco-Carlifornia,Electronics,ATM card,2021-08-16,9.99,0.69
+Houston-Texas,Electronics,ATM card,2021-04-16,12.99,1.05
+Austin-Texas,Electronics,Cash,2021-02-22,21.99,1.58
+San Francisco-Carlifornia,Electronics,Cash,2021-01-27,19.99,1.39
+Austin-Texas,Electronics,ATM card,2021-12-27,11.26,1.27
+San Francisco-Carlifornia,Electronics,Cash,2021-04-24,15.36,1.56
+Houston-Texas,Electronics,Cash,2021-08-04,11.99,1.48
+Austin-Texas,Electronics,ATM card,2021-08-22,18.46,2.02
+Buffalo-New York,Electronics,Cash,2021-06-07,19.29,1.43
+Buffalo-New York,Electronics,ATM card,2021-03-02,18.46,1.94
+Austin-Texas,Electronics,ATM card,2021-04-05,8.8,0.5
+Buffalo-New York,Electronics,Cash,2021-06-24,19.18,1.08
+Austin-Texas,Electronics,Cash,2021-01-12,15.49,1.0
+Houston-Texas,Electronics,ATM card,2021-05-13,32.45,4.63
+San Francisco-Carlifornia,Electronics,ATM card,2021-12-02,7.19,1.08
+San Francisco-Carlifornia,Electronics,Cash,2021-10-06,15.49,0.81
+Austin-Texas,Electronics,Cash,2021-04-14,13.31,1.14
+Austin-Texas,Electronics,Cash,2021-08-07,15.49,2.2
+San Francisco-Carlifornia,Electronics,Cash,2021-03-09,4.9,0.34
+San Francisco-Carlifornia,Electronics,ATM card,2021-07-05,15.99,1.16
+San Francisco-Carlifornia,Electronics,Cash,2021-08-02,13.7,0.73
+Austin-Texas,Electronics,Cash,2021-10-21,14.95,1.03
+San Francisco-Carlifornia,Electronics,Cash,2021-06-16,5.87,0.65
+San Francisco-Carlifornia,Electronics,Cash,2021-02-06,5.99,0.81
+San Francisco-Carlifornia,Electronics,Cash,2021-09-03,14.98,0.82
+Buffalo-New York,Electronics,Cash,2021-03-18,12.3,1.64
+San Francisco-Carlifornia,Electronics,ATM card,2021-10-19,20.99,2.6
+San Francisco-Carlifornia,Electronics,Cash,2021-05-26,15.49,1.26
+San Francisco-Carlifornia,Electronics,Cash,2021-11-10,4.89,0.4
+Austin-Texas,Electronics,Cash,2021-02-15,16.97,1.29
+Austin-Texas,Electronics,Cash,2021-02-09,6.99,0.61
+San Francisco-Carlifornia,Electronics,Cash,2021-03-18,9.6,1.04
+Austin-Texas,Electronics,Cash,2021-05-27,8.99,1.35
+Austin-Texas,Women's Fashion,Cash,2021-12-01,22.89,3.1
+Austin-Texas,Women's Fashion,Mobile payment,2021-01-02,49.99,5.15
+Houston-Texas,Women's Fashion,Cash,2021-05-06,23.99,1.75
+Austin-Texas,Women's Fashion,Cash,2021-11-03,24.99,3.07
+Austin-Texas,Women's Fashion,ATM card,2021-02-12,28.99,3.39
+San Francisco-Carlifornia,Women's Fashion,Cash,2021-10-30,20.99,1.31
+Sparks-Nevada,Women's Fashion,Cash,2021-04-10,13.11,1.69
+Austin-Texas,Women's Fashion,Cash,2021-11-17,34.99,1.76
+San Francisco-Carlifornia,Women's Fashion,Cash,2021-12-27,22.9,1.5
+Austin-Texas,Women's Fashion,ATM card,2021-08-09,37.99,2.93
+San Francisco-Carlifornia,Women's Fashion,Cash,2021-02-13,39.5,4.46
+Austin-Texas,Women's Fashion,Cash,2021-02-16,19.99,1.51
+Austin-Texas,Women's Fashion,Cash,2021-09-17,19.99,1.72
+San Francisco-Carlifornia,Women's Fashion,Cash,2021-12-17,23.99,2.9
+Austin-Texas,Women's Fashion,Mobile payment,2021-01-21,19.9,2.24
+Austin-Texas,Women's Fashion,Cash,2021-09-23,28.29,1.43
+Austin-Texas,Women's Fashion,Cash,2021-08-12,25.0,1.91
+Austin-Texas,Women's Fashion,ATM card,2021-04-26,11.19,1.16
+San Francisco-Carlifornia,Women's Fashion,Mobile payment,2021-06-21,149.95,15.15
+San Francisco-Carlifornia,Women's Fashion,Cash,2021-01-29,11.56,0.69
+Houston-Texas,Women's Fashion,Cash,2021-12-01,20.03,1.99
+San Francisco-Carlifornia,Women's Fashion,Cash,2021-05-11,39.99,2.02
+Buffalo-New York,Women's Fashion,Cash,2021-01-12,59.99,6.33
+San Francisco-Carlifornia,Women's Fashion,ATM card,2021-04-06,16.06,2.26
+Houston-Texas,Women's Fashion,Cash,2021-12-12,69.95,5.32
+Austin-Texas,Women's Fashion,Cash,2021-05-28,59.99,5.18
+San Francisco-Carlifornia,Women's Fashion,Cash,2021-12-31,16.57,1.48
+San Francisco-Carlifornia,Women's Fashion,ATM card,2021-08-15,18.99,1.15
+Houston-Texas,Women's Fashion,Cash,2021-07-06,48.99,5.62
+Austin-Texas,Women's Fashion,ATM card,2021-03-23,59.99,6.22
+Houston-Texas,Women's Fashion,Cash,2021-06-09,9.3,1.02
+San Francisco-Carlifornia,Women's Fashion,Cash,2021-01-09,10.99,1.61
+Austin-Texas,Women's Fashion,Cash,2021-10-23,22.94,2.03
